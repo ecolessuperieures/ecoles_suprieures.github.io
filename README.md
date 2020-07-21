@@ -1,1 +1,1 @@
-# ecoles_suprieures.github.io
+# ecolessuprieures.github.io
